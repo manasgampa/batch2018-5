@@ -20,8 +20,9 @@ public class Demo extends Emp{
 		int i=super.sal;
 	}
 	*/
+	//This is a demo class
 	public static void main(String[] args) {
-	
+	//we are in main method
 		List<Person> list=Arrays.asList(new Person("Sara","F",20),
 				new Person("Sara","F",27),
 				new Person("Bob","M",20),
