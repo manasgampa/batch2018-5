@@ -20,6 +20,7 @@ public class Demo extends Emp{
 		int i=super.sal;
 	}
 	*/
+	//This is a demo class
 	public static void main(String[] args) {
 	
 		List<Person> list=Arrays.asList(new Person("Sara","F",20),
