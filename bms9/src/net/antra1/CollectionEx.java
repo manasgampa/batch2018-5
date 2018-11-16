@@ -15,6 +15,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class CollectionEx{
 
+	//This is collection class
 	public static void main(String[] args) {
 		HashMap hm=new HashMap();
 		Collections.synchronizedMap(hm);
